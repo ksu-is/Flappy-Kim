@@ -1,11 +1,11 @@
- Create README
- Upload code from existing repo
- Test existing repo and note any issues that surface
- Create separate repo for development code
- Clone repos for existing code & development code to Github Desktop
- Analyze existing repo in VS Code, adding notes of each codes function
- Create an outline for program
- Implement changes for assignment tracker program in development code
- Test Flappy Kim program, seeing if any issues pop up
- fix issues & re-test
- Create PPT slide for final presentation
+1.  Create README
+2.  Upload code from existing repo
+3.  Test existing repo and note any issues that surface
+4.  Create separate repo for development code
+5.  Clone repos for existing code & development code to Github Desktop
+6.  Analyze existing repo in VS Code, adding notes of each codes function
+7.  Create an outline for program
+8.  Implement changes for assignment tracker program in development code
+9.  Test Flappy Kim program, seeing if any issues pop up
+10. fix issues & re-test
+11.  Create PPT slide for final presentation
