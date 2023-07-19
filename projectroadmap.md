@@ -1,5 +1,5 @@
-1.  Create README
-2.  Upload code from existing repo
+1.  Create README- CHECK
+2.  Upload code from existing repo- CHECK
 3.  Test existing repo and note any issues that surface
 4.  Create separate repo for development code
 5.  Clone repos for existing code & development code to Github Desktop
